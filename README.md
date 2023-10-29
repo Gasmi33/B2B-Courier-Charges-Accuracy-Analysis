@@ -16,4 +16,4 @@ So, the process of Text Analysis starts with collecting textual data (structured
 Text Analysis using Python
 Let’s get started with the task of Text Analysis by importing the necessary Python libraries and the dataset:
 
-![Word cloud of titles](https://github.com/Gasmi33/Text-Mining/blob/main/image/bi.webp)
+![Word cloud of titles](https://github.com/Gasmi33/Text-Mining/blob/main/image/Text-Analysis-1.webp)
