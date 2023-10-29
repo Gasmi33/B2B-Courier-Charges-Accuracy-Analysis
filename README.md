@@ -15,4 +15,4 @@ So, the process of Text Analysis starts with collecting textual data (structured
 
 Text Analysis using Python
 Let’s get started with the task of Text Analysis by importing the necessary Python libraries and the dataset:
-![GitHub Logo](https://github.com/username/repository/blob/master/images/logo.png)
+![GitHub Logo]([https://github.com/username/repository/blob/master/images/logo.png](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2023/10/Text-Analysis-1.png?w=857&ssl=1)https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2023/10/Text-Analysis-1.png?w=857&ssl=1)
